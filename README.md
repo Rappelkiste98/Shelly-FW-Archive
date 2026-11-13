@@ -1,8 +1,8 @@
 <b>Offical Cloud Update URLs:</b></br>
 | Model    | Update URL                                   |
 |----------|----------------------------------------------|
-| S1PMG4ZB | https://updates.shelly.cloud/update/S1PMG4ZB |
-| S2PMG4ZB | https://updates.shelly.cloud/update/S2PMG4ZB |
+| S1PMG4/ZB | https://updates.shelly.cloud/update/S1PMG4 |
+| S2PMG4/ZB | https://updates.shelly.cloud/update/S2PMG4 |
 
 <b>Offical Cloud Image URLs:</b></br>
 | Model    | Version | Image URL                                                                                                       |

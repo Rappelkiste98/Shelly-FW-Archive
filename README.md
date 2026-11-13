@@ -1,3 +1,7 @@
+<b>Get Your Model Identifier:</b></br>
+``http://<shelly_ip>/rpc/Shelly.GetDeviceInfo``</br>
+JSON["app"] => Your Model Identifier
+
 <b>Offical Cloud Update URLs:</b></br>
 | Model    | Update URL                                   |
 |----------|----------------------------------------------|
